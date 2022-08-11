@@ -1,0 +1,1 @@
+I see. This project was less about learning about html and more about learning how to properly add and commit using git. I didn't learn that up until the very end when I viewed my own repository on git hub and realized that all the commit messages were too long. I see now that I should've added made individual commits for every one of the changes I made.
